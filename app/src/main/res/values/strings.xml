@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment8.1</string>
+    <string name="BtnLabel">Change Settings</string>
+    <string name="defaultTxt">Settings not set</string>
+
+    <string-array name="updateFrequency_name">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Yearly</item>
+        <item>None</item>
+    </string-array>
+
+
+
+
+
+</resources>
